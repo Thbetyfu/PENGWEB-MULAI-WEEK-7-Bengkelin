@@ -5,14 +5,8 @@
 - **Kelas:** SE-48-04
 - **Program Studi:** S1 Rekayasa Perangkat Lunak (Software Engineering)
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
-<<<<<<< HEAD
 - **Nama Aplikasi Pribadi:** **Bengkelin** (Sistem Manajemen Servis Motor Konvensional & Motor Listrik)
 - **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git](https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git)
-=======
-- **Tugas:** Week 09 - NestJS Dasar + Struktur MVC (Fullstack Monorepo FE & BE)
-- **Repositori GitHub:** https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git
-- AI usagae: code complition vs code sisanya koding sendiri
->>>>>>> f9bf8ded26eb0535e6f1ac61a494cec73a9b91b2
 
 ---
 
