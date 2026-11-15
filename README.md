@@ -12,7 +12,6 @@
 
 # Bengkelin — Fullstack Monorepo Web Application
 
-<<<<<<< HEAD
 **Bengkelin** adalah aplikasi web komprehensif yang dirancang untuk mengelola antrean pemesanan jadwal perawatan, estimasi biaya, pemilihan bengkel mitra, dan riwayat pemeliharaan berkala untuk sepeda motor bermesin konvensional (bensin) maupun motor listrik (*Electric Vehicle / EV*).
 
 Proyek ini merupakan **aplikasi pribadi berkelanjutan yang dibangun secara berkesinambungan sejak Pekan 2**, bertransformasi melalui berbagai paradigma arsitektur rekayasa web:
@@ -27,7 +26,6 @@ Proyek ini merupakan **aplikasi pribadi berkelanjutan yang dibangun secara berke
 8. **Pekan 9**: Restrukturisasi monorepo penuh (**Frontend & Backend Terpisah**) dengan pembangunan backend RESTful API berbasis **NestJS** mengikuti pola arsitektur **Model-View-Controller (MVC)**, validasi DTO dengan *class-validator*, penanganan eksepsi bawaan (*NotFoundException* & *ConflictException*), pengujian *REST Client*, dan integrasi *fullstack* langsung.
 =======
 Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis sepeda motor (konvensional & motor listrik). Proyek ini merupakan kelanjutan aplikasi pribadi **Bengkelin** yang telah dibangun sejak Pekan 2, bertransformasi menjadi Single Page Application (SPA) berbasis **React** di Pekan 6 & 7, dan kini direfaktor secara rapi menjadi arsitektur **Fullstack Monorepo (Frontend & Backend Terpisah)** dengan fondasi **NestJS (Model-View-Controller)** pada **Tugas Perkuliahan week 9**.
->>>>>>> f9bf8ded26eb0535e6f1ac61a494cec73a9b91b2
 
 ---
 
