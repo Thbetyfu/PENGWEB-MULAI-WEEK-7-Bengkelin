@@ -11,7 +11,7 @@
 
 # Bengkelin — Fullstack Monorepo Architecture (FE & BE)
 
-Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis sepeda motor (konvensional & motor listrik). Proyek ini merupakan kelanjutan aplikasi pribadi **Bengkelin** yang telah dibangun sejak Pekan 2, bertransformasi menjadi Single Page Application (SPA) berbasis **React** di Pekan 6 & 7, dan kini direfaktor secara rapi menjadi arsitektur **Fullstack Monorepo (Frontend & Backend Terpisah)** dengan fondasi **NestJS (Model-View-Controller)** pada **Tugas Perkuliahan Bab 9**.
+Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis sepeda motor (konvensional & motor listrik). Proyek ini merupakan kelanjutan aplikasi pribadi **Bengkelin** yang telah dibangun sejak Pekan 2, bertransformasi menjadi Single Page Application (SPA) berbasis **React** di Pekan 6 & 7, dan kini direfaktor secara rapi menjadi arsitektur **Fullstack Monorepo (Frontend & Backend Terpisah)** dengan fondasi **NestJS (Model-View-Controller)** pada **Tugas Perkuliahan week 9**.
 
 ---
 
