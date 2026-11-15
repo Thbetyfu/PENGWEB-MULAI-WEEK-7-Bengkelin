@@ -6,6 +6,7 @@
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
 - **Tugas:** Week 09 - NestJS Dasar + Struktur MVC (Fullstack Monorepo FE & BE)
 - **Repositori GitHub:** https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git
+- AI usagae: code complition vs code sisanya koding sendiri
 
 ---
 
