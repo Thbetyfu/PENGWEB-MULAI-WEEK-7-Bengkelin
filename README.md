@@ -418,4 +418,4 @@ Pada pekan ini, diletakkan fondasi awal aplikasi Bengkelin berupa **struktur HTM
 - **Pekan 6 — Pekan 7**: readme dan vs code untuk code complition
 - **Pekan 9**: vs code untuk code complition saja
 
-belum menggunakna AI agent kayak antigravity maupun copilot github
+belum menggunakna AI agent kayak antigravity maupun copilot github untuk week ini
