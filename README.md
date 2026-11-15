@@ -5,13 +5,20 @@
 - **Kelas:** SE-48-04
 - **Program Studi:** S1 Rekayasa Perangkat Lunak (Software Engineering)
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
+<<<<<<< HEAD
 - **Nama Aplikasi Pribadi:** **Bengkelin** (Sistem Manajemen Servis Motor Konvensional & Motor Listrik)
 - **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git](https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git)
+=======
+- **Tugas:** Week 09 - NestJS Dasar + Struktur MVC (Fullstack Monorepo FE & BE)
+- **Repositori GitHub:** https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git
+- AI usagae: code complition vs code sisanya koding sendiri
+>>>>>>> f9bf8ded26eb0535e6f1ac61a494cec73a9b91b2
 
 ---
 
 # Bengkelin — Fullstack Monorepo Web Application
 
+<<<<<<< HEAD
 **Bengkelin** adalah aplikasi web komprehensif yang dirancang untuk mengelola antrean pemesanan jadwal perawatan, estimasi biaya, pemilihan bengkel mitra, dan riwayat pemeliharaan berkala untuk sepeda motor bermesin konvensional (bensin) maupun motor listrik (*Electric Vehicle / EV*).
 
 Proyek ini merupakan **aplikasi pribadi berkelanjutan yang dibangun secara berkesinambungan sejak Pekan 2**, bertransformasi melalui berbagai paradigma arsitektur rekayasa web:
@@ -24,6 +31,9 @@ Proyek ini merupakan **aplikasi pribadi berkelanjutan yang dibangun secara berke
 6. **Pekan 7**: Integrasi konsumsi API eksternal asinkron (**AJAX / Fetch API**) dengan penanganan 3 kondisi antarmuka (*loading*, *success*, *error*) dan tombol *retry*.
 7. **Pekan 8**: Fase Tugas Besar I (UTS Frontend) berfokus pada kolaborasi tim aplikasi e-commerce *EchoMarket*.
 8. **Pekan 9**: Restrukturisasi monorepo penuh (**Frontend & Backend Terpisah**) dengan pembangunan backend RESTful API berbasis **NestJS** mengikuti pola arsitektur **Model-View-Controller (MVC)**, validasi DTO dengan *class-validator*, penanganan eksepsi bawaan (*NotFoundException* & *ConflictException*), pengujian *REST Client*, dan integrasi *fullstack* langsung.
+=======
+Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis sepeda motor (konvensional & motor listrik). Proyek ini merupakan kelanjutan aplikasi pribadi **Bengkelin** yang telah dibangun sejak Pekan 2, bertransformasi menjadi Single Page Application (SPA) berbasis **React** di Pekan 6 & 7, dan kini direfaktor secara rapi menjadi arsitektur **Fullstack Monorepo (Frontend & Backend Terpisah)** dengan fondasi **NestJS (Model-View-Controller)** pada **Tugas Perkuliahan week 9**.
+>>>>>>> f9bf8ded26eb0535e6f1ac61a494cec73a9b91b2
 
 ---
 
